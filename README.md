@@ -1,3 +1,3 @@
 # Github Pages
 
-[![forthebadge](https://forthebadge.com/images/badges/just-plain-nasty.svg)](https://forthebadge.com)
+![forthebadge](https://github.com/BraveUX/for-the-badge/blob/master/src/images/badges/just-plain-nasty.svg)
